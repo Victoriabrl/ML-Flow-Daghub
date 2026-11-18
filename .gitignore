@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+mlruns/
+mlflow.db
+.DS_Store
+Thumbs.db
